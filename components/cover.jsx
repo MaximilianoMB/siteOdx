@@ -6,7 +6,7 @@ export default function Cover(){
         <div id="cover" className="w-full h-screen text-center">
             <div className="max-w-[1240px] w-full h-full  mx-auto p-2 flex justify-center items-center">
                 <div> 
-                        <Image src="/../public/favicon.ico" alt="/" width="160" height="169" />
+                        <Image src="/favicon.ico" alt="/" width="160" height="169" />
                     <p className="uppercase tracking-widest text-gray-600 pb-12">
                         Octahedron Data Experts
                     </p>

@@ -10,7 +10,7 @@ export default function Services(){
                     <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
                         <div className="grid grid-cols-2 gap-4 justify-center items-center">
                             <div className="m-auto">
-                                <Image src="/../public/servicos/agile.png" alt="/" width="64px" height="64px"/>
+                                <Image src="/servicos/agile.png" alt="/" width="64px" height="64px"/>
                             </div>
                             <div className="flex flex-col items-center justify-center">
                                 <h3>Machine Learning</h3>
@@ -20,47 +20,27 @@ export default function Services(){
                     <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
                         <div className="grid grid-cols-2 gap-4 justify-center items-center">
                             <div className="m-auto">
-                                <Image src="/../public/servicos/networking.png" alt="/" width="64px" height="64px"/>
+                                <Image src="/servicos/south-america.png" alt="/" width="64px" height="64px"/>
                             </div>
                             <div className="flex flex-col items-center justify-center">
-                                <h3>Especialistas</h3>
+                                <h3>Econometria Espacial</h3>
                             </div>
                         </div>
                     </div>
                     <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
                         <div className="grid grid-cols-2 gap-4 justify-center items-center">
                             <div className="m-auto">
-                                <Image src="/../public/servicos/research.png" alt="/" width="64px" height="64px"/>
+                                <Image src="/servicos/research.png" alt="/" width="64px" height="64px"/>
                             </div>
                             <div className="flex flex-col items-center justify-center">
-                                <h3>BI</h3>
+                                <h3>Econometria</h3>
                             </div>
                         </div>
                     </div>
                     <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
                         <div className="grid grid-cols-2 gap-4 justify-center items-center">
                             <div className="m-auto">
-                                <Image src="/../public/servicos/statistic.png" alt="/" width="64px" height="64px"/>
-                            </div>
-                            <div className="flex flex-col items-center justify-center">
-                                <h3>Data Science</h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-                        <div className="grid grid-cols-2 gap-4 justify-center items-center">
-                            <div className="m-auto">
-                                <Image src="/../public/servicos/statistics.png" alt="/" width="64px" height="64px"/>
-                            </div>
-                            <div className="flex flex-col items-center justify-center">
-                                <h3>Resultados</h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-                        <div className="grid grid-cols-2 gap-4 justify-center items-center">
-                            <div className="m-auto">
-                                <Image src="/../public/servicos/server.png" alt="/" width="64px" height="64px"/>
+                                <Image src="/servicos/server.png" alt="/" width="64px" height="64px"/>
                             </div>
                             <div className="flex flex-col items-center justify-center">
                                 <h3>Big Data</h3>

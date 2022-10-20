@@ -107,21 +107,14 @@ export default function Navigation(){
                             </li>
                         </Link>
                     </ul>
-                    <div className="pt-12">
-                        <p className="uppercase tracking-widest text-[#5651e5]">Data is the new oil!</p>
-                        <div className="flex items-center justify-between my-4 w-full sm:w-[80%]">
-                            <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
-                                <FaLinkedinIn />
-                            </div>
-                            <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
-                                <FaGithub />
-                            </div>
+                    <div className="pt-8 items-center">
+                        <p className="uppercase  tracking-widest text-[#5651e5]">Data is the new oil!</p>
+                        <div className="flex justify-center my-4 w-full sm:w-[80%]">
+                           
                             <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
                                 <AiOutlineMail />
                             </div>
-                            <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
-                                <BsFillPersonLinesFill />
-                            </div>
+                           
                         </div>
                     </div>
                 </div>

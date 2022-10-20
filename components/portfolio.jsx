@@ -13,7 +13,7 @@ export default function Portfolio(){
                 <p className="text-xl tracking-widest uppercase text-[#5651e5]">
                    Clientes 
                 </p>
-                <h2 className="py-4">Portfolio</h2>
+                <h2 className="py-4">Na mídia</h2>
                 <div className="grid md:grid-cols-2 gap-8">
                     <Modals title="Estadão" bgImg={estadaoImg} imgUrl="/estadao" />
                     <Modals title="G1" bgImg={gUmImg} imgUrl="/g1" />

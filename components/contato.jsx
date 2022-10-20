@@ -18,7 +18,7 @@ export default function Contato(){
                     <div className="col-span-3 lg:col-span-2 w-full shadow-xl shadow-gray-400 rounded-xl p-4">
                         <div className="lg:p-4 h-full text-center">
                             <div>
-                                <Image className="rounded-xl hover:scale-105 ease-in duration-300" src="/../public/call.jpg" width="400px" height="300px" alt="/" />
+                                <Image className="rounded-xl hover:scale-105 ease-in duration-300" src="/call.jpg" width="400px" height="300px" alt="/" />
                             </div>
                             <div>
                                 <h2 className="py-2">

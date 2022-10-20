@@ -10,7 +10,7 @@ export default function Services(){
                     <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
                         <div className="grid grid-cols-2 gap-4 justify-center items-center">
                             <div className="m-auto">
-                                <Image src="/../public/equipe/1.jpg" alt="/" width="150px" height="150px"/>
+                                <Image src="/equipe/1.jpg" alt="/" width="150px" height="150px"/>
                             </div>
                             <div className="flex flex-col items-center justify-center">
                                 <h3 className="text-2xl pb-2">Wagner Vargas</h3>
@@ -21,7 +21,7 @@ export default function Services(){
                     <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
                         <div className="grid grid-cols-2 gap-4 justify-center items-center">
                             <div className="m-auto rounded-full">
-                                <Image src="/../public/equipe/2.jpg" alt="/" width="150px" height="150px"/>
+                                <Image src="/equipe/2.jpg" alt="/" width="150px" height="150px"/>
                             </div>
                             <div className="flex flex-col items-center justify-center">
                                 <h3 className="text-2xl pb-2">Felício Visnardi</h3>
