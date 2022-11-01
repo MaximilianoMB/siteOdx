@@ -38,7 +38,7 @@ export default function Navigation(){
                         </Link> 
                         <Link href="/#portfolio">
                             <li  className="ml-10 text-sm uppercase hover:border-b">
-                            Clientes
+                           Na Mídia
                             </li>
                         </Link> 
                         <Link href="/#time">
