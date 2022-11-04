@@ -1,8 +1,12 @@
 import Link from "next/link";
 import estadaoImg from "../public/clientes/estadao-logo.png";
 import gUmImg from "../public/clientes/g1.png";
-import cliente3Img from "../public/clientes/3.jpg";
+import valorImg from "../public/clientes/valor.jpg";
 import cliente4Img from "../public/clientes/4.jpg";
+import cnnImg from "../public/clientes/cnn.svg";
+import globoplayImg from "../public/clientes/globoplay.png";
+import ogloboImg from "../public/clientes/oglobo.png";
+import folhaImg from "../public/clientes/folha.png";
 
 import Modals from "./modals";
 
@@ -17,13 +21,13 @@ export default function Portfolio(){
                 <div className="grid md:grid-cols-3 gap-8">
                     <Modals title="Estadão" bgImg={estadaoImg} imgUrl="/estadao" />
                     <Modals title="G1" bgImg={gUmImg} imgUrl="/g1" />
-                    <Modals title="Valor Econômico" bgImg={cliente3Img} imgUrl="/valorEconomico" />
-                    <Modals title="Jornal Nacional" bgImg={cliente4Img} imgUrl="/jornalNacional" />
-                    <Modals title="Estadão" bgImg={estadaoImg} imgUrl="/estadao" />
-                    <Modals title="G1" bgImg={gUmImg} imgUrl="/g1" />
-                    <Modals title="Valor Econômico" bgImg={cliente3Img} imgUrl="/valorEconomico" />
-                    <Modals title="Jornal Nacional" bgImg={cliente4Img} imgUrl="/jornalNacional" />
-                    <Modals title="Jornal Nacional" bgImg={cliente4Img} imgUrl="/jornalNacional" />
+                    <Modals title="Valor Econômico" bgImg={valorImg} imgUrl="/valorEconomico" />
+                    <Modals title="Folha de S.Paulo" bgImg={folhaImg} imgUrl="/folha1" />
+                    <Modals title="CNNBrasil" bgImg={cnnImg} imgUrl="/cnn" />
+                    <Modals title="Globoplay" bgImg={globoplayImg} imgUrl="/globoplay" />
+                    <Modals title="O Globo" bgImg={ogloboImg} imgUrl="/oglobo" />
+                    <Modals title="Estadão" bgImg={estadaoImg} imgUrl="/estadao2" />
+                    <Modals title="Folha de S.Paulo" bgImg={folhaImg} imgUrl="/folha2" />
                 </div>
             </div>
         </div>
