@@ -38,9 +38,7 @@ export default function Services(){
                         </div>
                         <div className={navWag ? "col-span-2 mt-10" : "hidden"}>
                             <p 
-                            className="m-4 first-line:uppercase first-line:tracking-widest
-                            first-letter:text-7xl first-letter:font-bold first-letter:text-slate-900
-                            first-letter:mr-3 first-letter:float-left"
+                            className="m-4 "
                             >
                             Bacharelando em Estatística (Anhembi Morumbi, 2020-2023) e Bacharel em Comunicação Social (Anhembi Morumbi, 2009-2012),
                             é Mestre em Gestão e Políticas Públicas (FGV, 2016-2018) e pós-graduado pelo Programa Avançado de Data Science e Decisão (Insper, 2019-2021); com MBA em Finanças Públicas (Cândido Mendes, 2017-2019) e tem especialização em Estatística Aplicada (IBMEC, 2017) e em Marketing CRM (IBMEC, 2016).
@@ -67,9 +65,7 @@ export default function Services(){
                         </div>
                         <div className={navFel ? "col-span-2 mt-10" : "hidden"}>
                             <p 
-                            className="m-4 first-line:uppercase first-line:tracking-widest
-                            first-letter:text-7xl first-letter:font-bold first-letter:text-slate-900
-                            first-letter:mr-3 first-letter:float-left"
+                            className="m-4"
                             >
                             Graduado em Economia Empresarial e Controladoria pela FEARP-USP e pós-graduado pelo Programa Avançado de Data Science e Decisão pelo Insper.
                              Possui conhecimentos avançados em diversas linguagens de programação computacional, dentre elas Python, VBA, R, SQL e conhecimento intermediário em Javascript.
