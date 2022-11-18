@@ -65,7 +65,7 @@ export default function Navigation(){
                 }>
                 <div>
                     <div className="flex w-full items-center justify-between">
-                        <Image src="/../public/favicon.ico" width="50" height="59" alt="/" />
+                        <Image src="/favicon.ico" width="50" height="59" alt="/" />
                         <div onClick={handleNav} className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer">
                             <AiOutlineClose />
                         </div>
