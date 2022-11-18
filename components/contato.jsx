@@ -53,10 +53,7 @@ export default function Contato(){
                             <div>
                                 <h2 className="py-2">
                                     Octahedron Data Experts
-                                </h2>
-                                <p className="text-xl">
-                                    Data is the new oil
-                                </p>
+                                </h2>                              
                             </div>
                             <div className="py-8">
                                 <p className="uppercase pt-8 text-[#5651e5]">
