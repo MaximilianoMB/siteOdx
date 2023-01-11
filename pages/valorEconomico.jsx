@@ -24,7 +24,7 @@ export default function Valor() {
                     Tecnologia acentua força do agro no país
                     </h2>
                     <p className="py-2 grid ">
-                    "Ganhos de eficiência em diferentes cadeias permitiram ao setor avançar na pandemia, mostra estudo..."
+                    &lsquo;Ganhos de eficiência em diferentes cadeias permitiram ao setor avançar na pandemia, mostra estudo...&lsquo;
                     </p><br></br>
                     <p>Clique abaixo para ver matéria na íntegra</p><br></br>
                     <Link   rel="noopener noreferrer" href="https://valor.globo.com/agronegocios/noticia/2021/06/04/tecnologia-acentua-forca-do-agro-no-pais.ghtml">

@@ -24,7 +24,7 @@ export default function Estadao() {
                         Brasil está entre os 5 maiores exportadores em cerca de 30 produtos agrícolas
                     </h2>
                     <p className="py-2">
-                    "Dados que constam de estudo do Instituto Millenium, mostram que País está no top five global não só em produtos como soja e milho, mas também em pimenta, melancia, caju e mandioca, enter outros..."
+                    &lsquo;Dados que constam de estudo do Instituto Millenium, mostram que País está no top five global não só em produtos como soja e milho, mas também em pimenta, melancia, caju e mandioca, enter outros...&lsquo;
                     </p><br></br>
                     <p>Clique abaixo para ver a matéria na íntegra</p><br></br>
                     <Link   rel="noopener noreferrer" href="https://economia.estadao.com.br/noticias/geral,brasil-esta-entre-os-5-maiores-exportadores-em-cerca-de-30-produtos-agricolas,70003707595">

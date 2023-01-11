@@ -24,7 +24,7 @@ export default function Oglobo() {
                     Olhar social requer saúde fiscal
                     </h2>
                     <p className="py-2 grid ">
-                    "A agenda de reformas — a administrativa e tributária — precisa seguir adiante com urgência..."
+                    &lsquo;A agenda de reformas — a administrativa e tributária — precisa seguir adiante com urgência...&lsquo;
                     </p><br></br>
                     <p>
                     Wagner Vargas

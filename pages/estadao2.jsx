@@ -24,7 +24,7 @@ export default function EstadaoDois() {
                     Aposentadorias podem ser janela para a reforma
                     </h2>
                     <p className="py-2 grid ">
-                    "Levantamento do Instituto Millenium aponta que um terço dos funcionários efetivos do setor público federal deve se aposentar até 2034..."
+                    &lsquo;Levantamento do Instituto Millenium aponta que um terço dos funcionários efetivos do setor público federal deve se aposentar até 2034...&lsquo;
                     </p><br></br>
                     <p>
                     Clique abaixo para let a matéria na íntegra

@@ -24,7 +24,7 @@ export default function GloboPlay() {
                     Estudo mostra que Brasil gastou R$ 900 bilhões no ano passado com salários de servidores
                     </h2>
                     <p className="py-2 grid  text-center">
-                    "Dados são do Instituto Millenium e ressaltam a importância da reforma administrativa no país..."
+                    &lsquo;Dados são do Instituto Millenium e ressaltam a importância da reforma administrativa no país...&lsquo;
                     </p><br></br>
                     <p>
                     Clique abaixo para assistir a matéria na íntegra
