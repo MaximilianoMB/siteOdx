@@ -19,13 +19,16 @@ export default function EstadaoDois() {
                 </div>
             </div>
             <div className="max-w-[1240px] mx-auto p-2 grid md:grid-cols-5 gap-8 pt-8 bg-gradient-to-r from-slate-300 to-slate-400 rounded-tr-full rounded-bl-full">
-                <div className="col-span-4 grid justify-items-center">
+                <div className="col-span-4 grid justify-items-center text-center">
                     <h2 className="py-2">
                     Aposentadorias podem ser janela para a reforma
                     </h2>
                     <p className="py-2 grid ">
-                    Levantamento do Instituto Millenium aponta que um terço dos funcionários efetivos do setor público federal deve se aposentar até 2034.
-                    </p>
+                    "Levantamento do Instituto Millenium aponta que um terço dos funcionários efetivos do setor público federal deve se aposentar até 2034..."
+                    </p><br></br>
+                    <p>
+                    Clique abaixo para let a matéria na íntegra
+                    </p><br></br>
                     <Link   rel="noopener noreferrer" href="https://economia.estadao.com.br/noticias/geral,aposentadorias-podem-ser-janela-para-a-reforma,70003392873">
                     <a target="_blank">
                     <button  className="px-8 py-2 mt-4 mr-8 "> Ver Matéria</button>

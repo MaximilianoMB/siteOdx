@@ -19,13 +19,16 @@ export default function GloboPlay() {
                 </div>
             </div>
             <div className="max-w-[1240px] mx-auto p-2 grid md:grid-cols-5 gap-8 pt-8 bg-gradient-to-r from-slate-300 to-slate-400 rounded-tr-full rounded-bl-full">
-                <div className="col-span-4 grid justify-items-center">
+                <div className="col-span-4 grid justify-items-center text-center">
                     <h2 className="py-2">
                     Estudo mostra que Brasil gastou R$ 900 bilhões no ano passado com salários de servidores
                     </h2>
-                    <p className="py-2 grid justify-self-start">
-                    Dados são do Instituto Millenium e ressaltam a importância da reforma administrativa no país.
-                    </p>
+                    <p className="py-2 grid  text-center">
+                    "Dados são do Instituto Millenium e ressaltam a importância da reforma administrativa no país..."
+                    </p><br></br>
+                    <p>
+                    Clique abaixo para assistir a matéria na íntegra
+                    </p><br></br>
                     <Link   rel="noopener noreferrer" href="https://globoplay.globo.com/v/8767439/">
                     <a target="_blank">
                     <button  className="px-8 py-2 mt-4 mr-8 "> Ver Matéria</button>

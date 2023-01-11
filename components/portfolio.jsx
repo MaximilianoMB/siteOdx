@@ -2,7 +2,7 @@ import Link from "next/link";
 import estadaoImg from "../public/clientes/estadao-logo.png";
 import gUmImg from "../public/clientes/g1.png";
 import valorImg from "../public/clientes/valor.jpg";
-import cliente4Img from "../public/clientes/4.jpg";
+import jnImg from "../public/clientes/4.jpg";
 import cnnImg from "../public/clientes/cnn.svg";
 import globoplayImg from "../public/clientes/globoplay.png";
 import ogloboImg from "../public/clientes/oglobo.png";
@@ -20,7 +20,7 @@ export default function Portfolio(){
                 <h2 className="py-4">ODX na mídia</h2>
                 <div className="grid md:grid-cols-3 gap-8">
                     <Modals title="Estadão" bgImg={estadaoImg} imgUrl="/estadao" />
-                    <Modals title="G1" bgImg={gUmImg} imgUrl="/g1" />
+                    <Modals title="Jornal Nacional" bgImg={jnImg} imgUrl="/g1" />
                     <Modals title="Valor Econômico" bgImg={valorImg} imgUrl="/valorEconomico" />
                     <Modals title="Folha de S.Paulo" bgImg={folhaImg} imgUrl="/folha1" />
                     <Modals title="CNNBrasil" bgImg={cnnImg} imgUrl="/cnn" />

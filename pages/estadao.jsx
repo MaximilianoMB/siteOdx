@@ -19,13 +19,14 @@ export default function Estadao() {
                 </div>
             </div>
             <div className="max-w-[1240px] mx-auto p-2 grid md:grid-cols-5 gap-8 pt-8 bg-gradient-to-r from-slate-300 to-slate-400 rounded-tr-full rounded-bl-full">
-                <div className="col-span-4 grid justify-items-center">
+                <div className="col-span-4 grid justify-items-center text-center">
                     <h2 className="py-2">
                         Brasil está entre os 5 maiores exportadores em cerca de 30 produtos agrícolas
                     </h2>
                     <p className="py-2">
-                    Dados que constam de estudo do Instituto Millenium, mostram que País está no top five global não só em produtos como soja e milho, mas também em pimenta, melancia, caju e mandioca, enter outros.
-                    </p>
+                    "Dados que constam de estudo do Instituto Millenium, mostram que País está no top five global não só em produtos como soja e milho, mas também em pimenta, melancia, caju e mandioca, enter outros..."
+                    </p><br></br>
+                    <p>Clique abaixo para ver a matéria na íntegra</p><br></br>
                     <Link   rel="noopener noreferrer" href="https://economia.estadao.com.br/noticias/geral,brasil-esta-entre-os-5-maiores-exportadores-em-cerca-de-30-produtos-agricolas,70003707595">
                     <a target="_blank">
                     <button  className="px-8 py-2 mt-4 mr-8 "> Ver Matéria</button>
